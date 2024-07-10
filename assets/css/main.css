@@ -1320,25 +1320,25 @@ section,
 }
 
 /*--------------------------------------------------------------
-# Call To Action Section
+# News Letter Section
 --------------------------------------------------------------*/
-.call-to-action {
+.news-letter {
   padding: 80px 0;
   position: relative;
   clip-path: inset(0);
 }
 
-.call-to-action h3 {
+.news-letter h3 {
   font-size: 28px;
   font-weight: 700;
   color: var(--default-color);
 }
 
-.call-to-action p {
+.news-letter p {
   color: var(--default-color);
 }
 
-.call-to-action .cta-btn {
+.news-letter .cta-btn {
   font-family: var(--heading-font);
   font-weight: 500;
   font-size: 16px;
@@ -1352,7 +1352,7 @@ section,
   color: var(--contrast-color);
 }
 
-.call-to-action .cta-btn:hover {
+.news-letter .cta-btn:hover {
   background: var(--surface-color);
   color: var(--accent-color);
 }
